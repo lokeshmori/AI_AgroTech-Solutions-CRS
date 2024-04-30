@@ -30,6 +30,7 @@ The Crop Recommendation System accounts for historical rainfall patterns and mon
 <h4>Conclusion:</h4>
 The Crop Recommendation System represents the pinnacle of data-driven agriculture. 
 By accounting for soil minerals, humidity, temperature, and rainfall,
+ other soil nature  factor like k , n ,ph 
 it empowers farmers to make informed decisions about crop selection. 
 This approach not only boosts productivity but also contributes to more sustainable and resilient farming practices,
 which are essential for the future of agriculture in an ever-changing world. As technology continues to advance, 
