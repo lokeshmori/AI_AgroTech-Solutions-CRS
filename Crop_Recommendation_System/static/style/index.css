@@ -1,41 +1,47 @@
 body {
-    background-image: url(loki2.png);
+    background-image: url(crop2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
 
   form {
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
     text-align: center;
-    padding: 20px;
+    padding: 20px 20px 20px 20px ;
     background-color: rgba(94, 184, 207, 0.5);
     border-radius: 10px;
   }
 
   input[type="text"] {
-    width: 100%;
+    width: 90%;
     padding: 10px;
     margin-top: 10px;
     border-radius: 5px;
     border: none;
+
   }
 
   input[type="submit"] {
-    width: 100%;
+    width: 25%;
     padding: 10px;
     margin-top: 10px;
-    border-radius: 5px;
-    border: none;
-    background-color:rgb(3, 138, 80);
-    
-    color: rgb(19, 3, 102);
+    border-radius: 25px;
+    /* border: 2px  bold gold ; */
+    background-color:#35b602 ;
+    border:none;
+    color: #fff;
     cursor: pointer;
   }
-
+/* 
+  #sumbit input:hover {
+    color: #5fb43e;
+  }
+   */
   label {
     font-size: 16px;
     margin-top: 20px;
-    display: block;
+    display:  block;
+    
   }
